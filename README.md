@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 Hi! My name is Parmenion Koutsogeorgos and I am currently studying for a masters on Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
 
 My GitHub stats:
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-470&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 My most used programming languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-470&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
