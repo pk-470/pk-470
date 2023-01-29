@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Parmenion Koutsogeorgos and I am currently studying for a masters on Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
+My name is Parmenion Koutsogeorgos and I am currently studying for a masters on Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
 
 My GitHub stats:
 
