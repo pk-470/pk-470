@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Parmenion Koutsogeorgos and I am currently studying for a masters on Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
+My name is Parmenion Koutsogeorgos and I am currently studying for a masters in Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
 
 My GitHub stats:
 
@@ -22,3 +22,5 @@ My GitHub stats:
 My most used programming languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-470&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+You can reach me using the following email address: parmenkouts99@gmail.com
