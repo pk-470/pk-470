@@ -22,5 +22,3 @@ My GitHub stats:
 My most used programming languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-470&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-You can reach me using the following email address: parmenkouts99@gmail.com
