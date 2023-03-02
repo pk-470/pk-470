@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Parmenion Koutsogeorgos and I am currently studying for a masters in Artificial Intelligence at Maastricht University. Before that I studied Mathematics in the University of Cambridge.
+I am a Cambridge Mathematics graduate currently on my first year of a two year master's in Artificial Intelligence at Maastricht University. After finishing my bachelor's and first master's in Mathematics, I took a gap year during which I developed my programming skills while also taking online courses on the basics of Artificial Intelligence. I am currently interested in areas such as Computer Vision with medical applications and A.I. for Robotics.
 
 My GitHub stats:
 
