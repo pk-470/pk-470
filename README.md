@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Cambridge Mathematics graduate currently on my first year of a two year master's in Artificial Intelligence at Maastricht University. After finishing my bachelor's and first master's in Mathematics I worked as a math tutor for a year, during which I developed my programming skills while also taking online courses on the basics of Artificial Intelligence. I am currently interested in areas such as Computer Vision with medical applications and A.I. for Robotics.
+I am a Cambridge Mathematics graduate, currently on my second year of a two year master’s in Artificial Intelligence at Maastricht University. After finishing my bachelor’s and first master’s in Mathematics, I started working as a math tutor. At the same time, I independently developed my programming skills in Python and took online courses on the basics of Artificial Intelligence. Having now gained strong theoretical foundations on A.I. through my master’s, I am currently looking for an A.I. related internship in order to get some practical experience in the field. I am interested in areas such as Computer Vision with medical applications, and Natural Language Processing. 
 
 My CV can be found [here](https://github.com/pk-470/cv/blob/main/cv_pk.pdf).
 
