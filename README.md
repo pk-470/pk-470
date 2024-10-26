@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Cambridge Mathematics graduate, currently on my second year of a two year master’s in Artificial Intelligence at Maastricht University. After finishing my bachelor’s and first master’s in Mathematics, I started working as a math tutor. At the same time, I independently developed my programming skills in Python and took online courses on the basics of Artificial Intelligence. Having now gained strong theoretical foundations on A.I. through my master’s, I am currently looking for an A.I. related internship in order to get some practical experience in the field. I am interested in areas such as Computer Vision with medical applications, and Natural Language Processing. 
+I am an Artificial Intelligence Engineer based in the Netherlands. I am currently working part-time for Cordys Analytics, a startup affiliated with the University Medical Center Utrecht which applies A.I. methods for the purpose of diagnosing heart disease from electrocardiograms (ECGs). At the same time, I am working on my thesis for the Masters in Artificial Intelligence at Maastricht University, researching the use of State-Space models (Mamba) trained on bio-acoustic data for the purpose of monitoring animal populations. I have a strong background in Mathematics, having completed a Bachelors and Masters in Mathematics at the University of Cambridge. I am mainly interested in A.I. with applications to engineering and healthcare.
 
 My CV can be found [here](https://github.com/pk-470/cv/blob/main/cv_pk.pdf).
 
