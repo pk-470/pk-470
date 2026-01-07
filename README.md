@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Artificial Intelligence Engineer based in the Netherlands. I am currently working part-time for Cordys Analytics, a startup affiliated with the University Medical Center Utrecht which applies A.I. methods for the purpose of diagnosing heart disease from electrocardiograms (ECGs). At the same time, I am working on my thesis for the Masters in Artificial Intelligence at Maastricht University, researching the use of State-Space models (Mamba) trained on bio-acoustic data for the purpose of monitoring animal populations. I have a strong background in Mathematics, having completed a Bachelors and Masters in Mathematics at the University of Cambridge. I am mainly interested in A.I. with applications to engineering and healthcare.
+I am an Artificial Intelligence Engineer based in the Netherlands. I am currently working full-time for Cordys Analytics, a startup affiliated with the University Medical Center Utrecht which applies A.I. methods for the purpose of diagnosing heart disease from electrocardiograms (ECGs). I have a strong background in AI and Mathematics, having completed a Masters in Artificial Intelligence at Maastricht University and a Bachelors and Masters in Mathematics at the University of Cambridge.
 
 My CV can be found [here](https://github.com/pk-470/cv/blob/main/cv_pk.pdf).
 
